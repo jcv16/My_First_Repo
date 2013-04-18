@@ -14,3 +14,6 @@ Email Sending to a customer:
 *When ask the customer to fill the full application in email. it does not attached or show anything to fill the application.
 *When admin requested the customer to upload conditional information (something to do with http://platinumfinance.co.nz/Customer/ConditionalInformation/3) 
 when the customer uploads the documents it stil throws error to the system also goes when the customer did not upload all documents.
+
+
+EDITED FoR SVN TESTING 830 PM
