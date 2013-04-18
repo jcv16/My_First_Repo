@@ -1,0 +1,16 @@
+Admin Side:
+
+Control Panel Buttons: 
+Full APplication:
+*Error when admin is filling up the form where in some other fields are filled and when validation 
+highlighted the Residential and then submit the form then it throws an error.
+
+*Business Number : does not allowed to edit textbox
+*Facsimile: Does not allowed to edit number
+
+
+Email Sending to a customer:
+*When email with attachment is sent to a customer the files that are attached with filename "filename=..something.pdf" are cannot be able to open.
+*When ask the customer to fill the full application in email. it does not attached or show anything to fill the application.
+*When admin requested the customer to upload conditional information (something to do with http://platinumfinance.co.nz/Customer/ConditionalInformation/3) 
+when the customer uploads the documents it stil throws error to the system also goes when the customer did not upload all documents.
